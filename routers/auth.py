@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../ToDoApp")
+sys.path.append("..")
 
 
 from starlette.responses import RedirectResponse
